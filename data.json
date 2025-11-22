@@ -1,0 +1,32 @@
+[
+{
+    "nome": "JavaScript", 
+    "descricao": "O JavaScript e uma linguagem da galera.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+},
+{
+    "nome" : "Python",
+    "descricao": "O Python e uma linguagem e simples e rapida",
+    "ano": 1991,
+    "link": "https://docs.python.org/3/"
+},
+{
+    "nome": "Java",
+    "descricao": "Java é uma linguagem de programação orientada a objetos e uma plataforma de computação.",
+    "ano": 1995,
+    "link": "https://docs.oracle.com/en/java/"
+},
+{
+    "nome": "C++",
+    "descricao": "C++ é uma linguagem de programação de propósito geral com suporte para programação orientada a objetos.",
+    "ano": 1985,
+    "link": "https://isocpp.org/get-started"
+},
+{
+    "nome": "TypeScript",
+    "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/docs/"
+}
+]
