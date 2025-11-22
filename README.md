@@ -2,7 +2,7 @@
 
 ## 📚 Descrição
 
-Este projeto é resultado de uma **Imersão Dev** de 4 dias pela plataforma **Alura**, onde aprendi os fundamentos de **HTML**, **CSS** e **JavaScript**.
+Este projeto é resultado de uma **Imersão Dev** com parceria com o **Google Geminai** de 4 dias pela plataforma **Alura**, onde aprendi os fundamentos de **HTML**, **CSS** e **JavaScript**.
 
 A aplicação é um buscador interativo de linguagens de programação que permite aos usuários explorar informações sobre diferentes linguagens, como JavaScript, Python, Java, C++ e TypeScript.
 
@@ -66,13 +66,17 @@ Durante esta imersão, pude aprofundar meus conhecimentos em:
 - Eventos de usuário (click, keyup)
 - Métodos de array (filter, includes)
 
-## 🔧 Possíveis Melhorias
+## 🤖 Desenvolvimento em Parceria com IA
 
-- Adicionar mais linguagens de programação
-- Implementar categorização por tipo (Front-end, Back-end, etc)
-- Adicionar sistema de favoritos com LocalStorage
-- Melhorar acessibilidade (ARIA labels)
-- Adicionar animações de entrada dos cards
+Todo o conteúdo e desenvolvimento deste projeto foram realizados em **parceria com a Inteligência Artificial Gemini**. A IA auxiliou na:
+
+- Estruturação e organização do código
+- Otimização de algoritmos e lógica JavaScript
+- Design e estilização CSS
+- Criação e refinamento da documentação
+- Sugestões de melhorias e boas práticas
+
+Esta experiência demonstra como ferramentas de IA podem potencializar o aprendizado e a produtividade no desenvolvimento web! 🚀
 
 ## 👨‍💻 Autor
 
@@ -86,4 +90,4 @@ Desenvolvido durante a **Imersão Dev - Alura** (4 dias)
 
 ---
 
-*Obrigado à Alura por esta incrível experiência de aprendizado!* 🙌
+*Obrigado à Alura por esta incrível experiência de aprendizado e ao Gemini por ser um excelente parceiro de desenvolvimento!* 🙌
